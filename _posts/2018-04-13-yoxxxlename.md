@@ -4,7 +4,7 @@ layout: post
 ---
 ![x]({{site.baseurl}}/1.jpg)
 
-## Gloria is an out-of-work party girl who
+## [Gloria is an out-of-work party girl who](http://liveart.work)
 
 Gloria is an out-of-work party girl who, after getting kicked out of her apartment by her boyfriend, is
 
